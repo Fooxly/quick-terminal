@@ -6,7 +6,6 @@
 	"icon": "assets/icon.png",
 	"description": "Open an external terminal by the press of a button",
 	"version": "0.0.2",
-	"license": "MIT",
 	"keywords": [
 		"fooxly",
 		"vscode",
@@ -16,6 +15,17 @@
 		"terminal",
 		"native"
 	],
+	"homepage": "https://gitlab.com/fooxly/packages/terminal",
+	"repository": {
+		"type": "git",
+		"url": "https://gitlab.com/fooxly/packages/terminal.git"
+	},
+	"bugs": {
+		"url": "https://gitlab.com/fooxly/packages/terminal/issues",
+		"email": "bugs@fooxly.com"
+	},
+	"license": "MIT",
+	"main": "./out/extension.js",
 	"engines": {
 		"yarn": "^1",
 		"vscode": "^1.39.0"
@@ -26,7 +36,6 @@
 	"activationEvents": [
 		"*"
 	],
-	"main": "./out/extension.js",
 	"scripts": {
 		"vscode:prepublish": "yarn run compile",
 		"compile": "tsc -p ./",
