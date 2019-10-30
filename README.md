@@ -50,7 +50,7 @@ ext install fooxly.quick-terminal
 ## ⚙️ &nbsp;Available Settings
 
 
-* `quickterminal.priority`: The priority given to the statusbar items (`0` by default)
+* `quickterminal.priority`: The priority given to the statusbar button (`0` by default)
 
   ```json
   "quickterminal.priority": <number>
