@@ -13,13 +13,13 @@
 		"terminal",
 		"native"
 	],
-	"homepage": "https://gitlab.com/fooxly/packages/terminal",
+	"homepage": "https://github.com/Fooxly/quick-terminal",
 	"repository": {
 		"type": "git",
-		"url": "https://gitlab.com/fooxly/packages/terminal.git"
+		"url": "https://github.com/Fooxly/quick-terminal.git"
 	},
 	"bugs": {
-		"url": "https://gitlab.com/fooxly/packages/terminal/issues",
+		"url": "https://github.com/Fooxly/quick-terminal/issues",
 		"email": "bugs@fooxly.com"
 	},
 	"license": "MIT",
