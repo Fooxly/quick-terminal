@@ -58,4 +58,4 @@ ext install fooxly.quick-terminal
 
 ## License
 
-[MIT](LICENSE) &copy; Fooxly
+[MIT](https://gitlab.com/fooxly/packages/terminal/blob/master/LICENSE) &copy; Fooxly
