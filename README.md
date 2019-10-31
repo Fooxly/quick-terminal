@@ -7,13 +7,15 @@
   <p>Quick Terminal</p>
   <p style="color: #A2A2A2; font-size: 18px;">Easiest way to open a native terminal</p>
   
-  [![Version](https://vsmarketplacebadge.apphb.com/version-short/fooxly.quick-terminal.svg)](https://marketplace.visualstudio.com/items?itemName=fooxly.quick-terminal)
-  [![Installs](https://vsmarketplacebadge.apphb.com/installs-short/fooxly.quick-terminal.svg)](https://marketplace.visualstudio.com/items?itemName=fooxly.quick-terminal)
-  [![Ratings](https://vsmarketplacebadge.apphb.com/rating-short/fooxly.quick-terminal.svg)](https://marketplace.visualstudio.com/items?itemName=fooxly.quick-terminal)
-  [![License: MIT](https://img.shields.io/badge/License-MIT-brightgreen.svg)](https://opensource.org/licenses/MIT)
 </h1>
 
+[![Version](https://vsmarketplacebadge.apphb.com/version-short/fooxly.quick-terminal.svg)](https://marketplace.visualstudio.com/items?itemName=fooxly.quick-terminal)
+[![Installs](https://vsmarketplacebadge.apphb.com/installs-short/fooxly.quick-terminal.svg)](https://marketplace.visualstudio.com/items?itemName=fooxly.quick-terminal)
+[![Ratings](https://vsmarketplacebadge.apphb.com/rating-short/fooxly.quick-terminal.svg)](https://marketplace.visualstudio.com/items?itemName=fooxly.quick-terminal)
+[![License: MIT](https://img.shields.io/badge/License-MIT-brightgreen.svg)](https://opensource.org/licenses/MIT)
+
 <br />
+
 
 ```sh
 ext install fooxly.quick-terminal
