@@ -12,10 +12,9 @@
 [![Version](https://vsmarketplacebadge.apphb.com/version-short/fooxly.quick-terminal.svg)](https://marketplace.visualstudio.com/items?itemName=fooxly.quick-terminal)
 [![Installs](https://vsmarketplacebadge.apphb.com/installs-short/fooxly.quick-terminal.svg)](https://marketplace.visualstudio.com/items?itemName=fooxly.quick-terminal)
 [![Ratings](https://vsmarketplacebadge.apphb.com/rating-short/fooxly.quick-terminal.svg)](https://marketplace.visualstudio.com/items?itemName=fooxly.quick-terminal)
-[![License: MIT](https://img.shields.io/badge/License-MIT-brightgreen.svg)](https://opensource.org/licenses/MIT)
+[![License: MIT](https://img.shields.io/badge/License-MIT-brightgreen.svg)](https://github.com/Fooxly/quick-terminal/blob/master/LICENSE)
 
 <br />
-
 
 ```sh
 ext install fooxly.quick-terminal
@@ -33,16 +32,17 @@ ext install fooxly.quick-terminal
 
 <p>
   <a title="BuyMeACoffee" href="https://www.buymeacoffee.com/fooxly">
-    <img src="https://www.fooxly.com/readme/buymeacoffee.png" alt="BuyMeACoffee" width="25%" style="max-width: 180px" />
+    <img src="https://developer.fooxly.com/general/assets/images/buymeacoffee.png" alt="BuyMeACoffee" width="25%" style="max-width: 180px" />
   </a>&nbsp;&nbsp;
   <a title="Patreon" href="https://www.patreon.com/fooxly">
-    <img src="https://www.fooxly.com/readme/patreon.png" alt="Patreon" width="25%" style="max-width: 180px"/>
+    <img src="https://developer.fooxly.com/general/assets/images/patreon.png" alt="Patreon" width="25%" style="max-width: 180px"/>
   </a>&nbsp;&nbsp;
   <a title="PayPal" href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=3GEYSYZFXV9GE">
-    <img src="https://www.fooxly.com/readme/paypal.png" alt="PayPal" width="25%" style="max-width: 180px" />
+    <img src="https://developer.fooxly.com/general/assets/images/paypal.png" alt="PayPal" width="25%" style="max-width: 180px" />
   </a>
 </p>
 
+<br/>
 
 ## ⚙️ &nbsp;Available Settings
 
