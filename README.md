@@ -19,13 +19,15 @@
 ext install fooxly.quick-terminal
 ```
 
-## What's is Quick Terminal
+# What is Quick Terminal
 
-* Statusbar button which opens a native terminal
-* Opens a terminal based on the workspace root
-* When the selected file is not from the workspace (or no workspace is active) the folder where the file is stored is used
+> A package by [Fooxly](https://www.fooxly.com).
+
+**Quick Terminal** is the easiest method to open a native console. By just a press of a button a terminal is created at the workspace base folder or the selected file its folder.
 
 ## Support us &nbsp;❤
+
+> <span style="color:#32CD32">**40%**</span> of the revenue made from the support you give us will be donated to a charity
 
 <p>
   <a title="BuyMeACoffee" href="https://www.buymeacoffee.com/fooxly">
@@ -39,13 +41,6 @@ ext install fooxly.quick-terminal
   </a>
 </p>
 
-<br/>
-
-# Quick Terminal
-
-> A package by [Fooxly](https://www.fooxly.com).
-
-**Quick Terminal** is the easiest method to open a native console. By just a press of a button a terminal is created at the workspace base folder or the selected file its folder.
 
 ## ⚙️ &nbsp;Available Settings
 
