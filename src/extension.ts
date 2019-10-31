@@ -4,6 +4,19 @@ var s: StatusBarItem
 
 export function activate(context: ExtensionContext) {
 	if(s) s.dispose()
+
+	workspace.onDidChangeConfiguration(() => {
+		if(s) {
+			s.hide()
+			s.dispose()
+		}
+		createButton()
+	})
+	createButton()
+
+}
+
+function createButton() {
 	const config = workspace.getConfiguration('quickterminal')
 	s = window.createStatusBarItem(StatusBarAlignment.Right, config.get('priority', 0))
 	s.command = 'workbench.action.terminal.openNativeConsole'
@@ -13,5 +26,8 @@ export function activate(context: ExtensionContext) {
 }
 
 export function deactivate() {
-	if(s) s.dispose()
+	if(s) {
+		s.hide()
+		s.dispose()
+	}
 }
