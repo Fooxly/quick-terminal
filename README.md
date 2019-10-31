@@ -27,7 +27,7 @@ ext install fooxly.quick-terminal
 
 ## Support us &nbsp;❤
 
-> <span style="color:#32CD32">**40%**</span> of the revenue made from the support you give us will be donated to a charity
+> <span style="color:#32CD32">**40%**</span> of the revenue made from the support you give us, will be donated to a [charity](teamtrees.org)
 
 <p>
   <a title="BuyMeACoffee" href="https://www.buymeacoffee.com/fooxly">
