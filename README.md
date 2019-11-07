@@ -1,7 +1,7 @@
 <h1 align="center">
   <p align="center">
     <a title="Quick Terminal" href="https://marketplace.visualstudio.com/items?itemName=fooxly.quick-terminal">
-      <img src="https://developer.fooxly.com/quick-terminal/assets/images/icon.png" alt="Quick Terminal" height="150" />
+      <img src="https://assets.fooxly.com/extensions/quick_terminal/icon.png" alt="Quick Terminal" height="150" />
     </a>
   </p>
   <p>Quick Terminal</p>
@@ -32,13 +32,13 @@ ext install fooxly.quick-terminal
 
 <p>
   <a title="BuyMeACoffee" href="https://www.buymeacoffee.com/fooxly">
-    <img src="https://developer.fooxly.com/general/assets/images/buymeacoffee.png" alt="BuyMeACoffee" width="25%" style="max-width: 180px" />
+    <img src="https://assets.fooxly.com/third_party/buymeacoffee.png" alt="BuyMeACoffee" width="180" height="43" />
   </a>&nbsp;&nbsp;
   <a title="Patreon" href="https://www.patreon.com/fooxly">
-    <img src="https://developer.fooxly.com/general/assets/images/patreon.png" alt="Patreon" width="25%" style="max-width: 180px"/>
+    <img src="https://assets.fooxly.com/third_party/patreon.png" alt="Patreon" width="180" height="43" />
   </a>&nbsp;&nbsp;
   <a title="PayPal" href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=3GEYSYZFXV9GE">
-    <img src="https://developer.fooxly.com/general/assets/images/paypal.png" alt="PayPal" width="25%" style="max-width: 180px" />
+    <img src="https://assets.fooxly.com/third_party/paypal.png" alt="PayPal" width="180" height="43" />
   </a>
 </p>
 
