@@ -28,7 +28,7 @@ ext install fooxly.quick-terminal
 
 ## Support us &nbsp;❤
 
-> <span style="color:#32CD32">**40%**</span> of the revenue made from the support you give us, will be donated to a [charity](https://teamtrees.org)
+> About **40%** of your donation goes to one of the charities we support. For further information or questions please visit [our website](https://www.fooxly.com/charity) or contact us via [charity@fooxly.com](mailto:charity@fooxly.com).
 
 <p>
   <a title="BuyMeACoffee" href="https://www.buymeacoffee.com/fooxly">
@@ -41,6 +41,7 @@ ext install fooxly.quick-terminal
     <img src="https://assets.fooxly.com/third_party/paypal.png" alt="PayPal" width="180" height="43" />
   </a>
 </p>
+
 
 <br/>
 
