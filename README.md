@@ -42,7 +42,6 @@ ext install fooxly.quick-terminal
   </a>
 </p>
 
-
 <br/>
 
 ## ⚙️ &nbsp;Available Settings
@@ -53,6 +52,34 @@ ext install fooxly.quick-terminal
   ```json
   "quickterminal.priority": <number>
   ```
+
+<br/>
+
+<!-- markdownlint-disable MD026 -->
+## Known issues
+
+### My terminal won't open
+
+Unfortunately, there are some cases where VS Code can't find the right terminal on your OS to use.
+
+#### How do I fix it?
+
+Configure `"terminal.explorerKind"` in your `settings.json`, and set one of the
+following options based on your operating system:
+
+> **Note**: Remember to replace the values below with your preferred Terminal app
+
+##### macOS
+
+`"terminal.external.osxExec": "Terminal.app"`
+
+##### Windows
+
+`"terminal.external.windowsExec": "‪C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe"`
+
+##### Linux (eg. Ubuntu)
+
+`"terminal.external.linuxExec": "xterm"`
 
 ## License
 
