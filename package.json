@@ -3,7 +3,7 @@
 	"displayName": "Quick Terminal",
 	"author": "Fooxly <hello@fooxly.com> (https://developers.fooxly.com/)",
 	"description": "Open an external terminal by the press of a button",
-	"version": "0.1.6",
+	"version": "0.1.7",
 	"keywords": [
 		"fooxly",
 		"vscode",

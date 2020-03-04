@@ -1,24 +1,17 @@
-<h1 align="center">
-  <p align="center">
-    <a title="Quick Terminal" href="https://marketplace.visualstudio.com/items?itemName=fooxly.quick-terminal">
-      <img src="https://assets.fooxly.com/extensions/quick_terminal/icon.png" alt="Quick Terminal" height="150" />
-    </a>
-  </p>
-  <p>Quick Terminal</p>
-  <p style="color: #A2A2A2; font-size: 18px;">Easiest way to open a native terminal</p>
-  
-</h1>
+<p align="center">
+  <a title="Learn more about Quick Terminal" href="https://marketplace.visualstudio.com/items?itemName=fooxly.quick-terminal">
+    <img src="https://assets.fooxly.com/extensions/quick_terminal/banner.jpg" alt="Quick Terminal" width="100%" />
+  </a>
+</p>
+
+```sh
+ext install fooxly.quick-terminal
+```
 
 [![Version](https://vsmarketplacebadge.apphb.com/version-short/fooxly.quick-terminal.svg)](https://marketplace.visualstudio.com/items?itemName=fooxly.quick-terminal)
 [![Installs](https://vsmarketplacebadge.apphb.com/installs-short/fooxly.quick-terminal.svg)](https://marketplace.visualstudio.com/items?itemName=fooxly.quick-terminal)
 [![Ratings](https://vsmarketplacebadge.apphb.com/rating-short/fooxly.quick-terminal.svg)](https://marketplace.visualstudio.com/items?itemName=fooxly.quick-terminal)
 [![License: MIT](https://img.shields.io/badge/License-MIT-brightgreen.svg)](https://github.com/Fooxly/quick-terminal/blob/master/LICENSE)
-
-<br />
-
-```sh
-ext install fooxly.quick-terminal
-```
 
 # What is Quick Terminal
 
