@@ -3,7 +3,7 @@
 	"displayName": "Quick Terminal",
 	"author": "Fooxly <hello@fooxly.com> (https://developers.fooxly.com/)",
 	"description": "Open an external terminal by the press of a button",
-	"version": "0.1.7",
+	"version": "1.0.1",
 	"keywords": [
 		"fooxly",
 		"vscode",
@@ -67,7 +67,6 @@
 		"menus": {
 			"explorer/context": [
 				{
-					"when": "explorerResourceIsFolder",
 					"command": "quickterminal.openfolder",
 					"group": "navigation@31"
 				}
