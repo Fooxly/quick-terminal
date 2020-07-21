@@ -58,6 +58,21 @@
 		"*"
 	],
 	"contributes": {
+		"commands": [
+			{
+				"command": "quickterminal.openfolder",
+				"title": "Open in External Terminal"
+			}
+		],
+		"menus": {
+			"explorer/context": [
+				{
+					"when": "explorerResourceIsFolder",
+					"command": "quickterminal.openfolder",
+					"group": "navigation@31"
+				}
+			]
+		},
 		"configuration": {
 			"type": "object",
 			"title": "Quick Terminal",

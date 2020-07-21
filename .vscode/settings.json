@@ -1,7 +1,16 @@
 // Place your settings in this file to overwrite default and user settings.
 {
     "files.exclude": {
-        "out": false
+        "out": true,
+        ".vscode": true,
+        "node_modules": true,
+        ".gitignore": true,
+        ".vscodeignore": true,
+        "LICENSE": true,
+        "README.md": true,
+        "tsconfig.json": true,
+        "tslint.json": true,
+        "yarn.lock": true
     },
     "search.exclude": {
         "out": true // set this to false to include "out" folder in search results
@@ -82,5 +91,6 @@
     ],
     "workspace.exclude": {
         "out": false
-    }
+    },
+    "workspace.isHidden": true
 }
