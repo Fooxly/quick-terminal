@@ -1,96 +1,22 @@
-// Place your settings in this file to overwrite default and user settings.
 {
-    "files.exclude": {
-        "out": true,
-        ".vscode": true,
-        "node_modules": true,
-        ".gitignore": true,
-        ".vscodeignore": true,
-        "LICENSE": true,
-        "README.md": true,
-        "tsconfig.json": true,
-        "tslint.json": true,
-        "yarn.lock": true
-    },
     "search.exclude": {
-        "out": true // set this to false to include "out" folder in search results
+        "out": true // set this to `false` to include "out" folder in search results
     },
     // Turn off tsc task auto detection since we have the necessary tasks as npm scripts
     "typescript.tsc.autoDetect": "off",
-    "provision.keywords": {
-        "TODO": {
-            "caseSensitive": true,
-            "includesColon": true,
-            "color": "#fff",
-            "backgroundColor": "#f2b01f",
-            "rulerPlacement": "right",
-            "rulerColor": "rgba(242, 176, 31, 0.8)",
-            "highlight": "keyword"
-        },
-        "FIXME": {
-            "caseSensitive": true,
-            "includesColon": true,
-            "color": "#fff",
-            "backgroundColor": "#d85f88",
-            "rulerPlacement": "right",
-            "rulerColor": "rgba(216, 95, 136, 0.8)",
-            "highlight": "keyword"
-        },
-        "NOTE": {
-            "caseSensitive": true,
-            "includesColon": true,
-            "color": "#aaa",
-            "backgroundColor": "#434343",
-            "rulerPlacement": "right",
-            "rulerColor": "rgba(67, 67, 67, 0.8)",
-            "highlight": "keyword"
-        },
-        "OLD": {
-            "caseSensitive": true,
-            "includesColon": true,
-            "color": "#fff",
-            "backgroundColor": "#000",
-            "rulerPlacement": "right",
-            "rulerColor": "rgba(0, 0, 0, 0.8)",
-            "highlight": "keyword"
-        },
-        "NEW": {
-            "caseSensitive": true,
-            "includesColon": true,
-            "color": "#fff",
-            "backgroundColor": "#459ACA",
-            "rulerPlacement": "right",
-            "rulerColor": "rgba(69, 154, 202, 0.8)",
-            "highlight": "keyword"
-        }
+    "files.exclude": {
+        "out": false,
+        ".github": false,
+        ".vscode": false,
+        ".vscode-test": false,
+        "node_modules": false,
+        ".babelrc": false,
+        ".eslintrc.json": false,
+        ".gitignore": false,
+        ".vscodeignore": false,
+        "tsconfig.json": false,
+        "tslint.json": false,
+        "yarn.lock": false
     },
-    "provision.groups": [
-        {
-            "keywords": [
-                "TODO",
-                "FIXME"
-            ],
-            "tooltip": "These are all the 'TODO' and 'FIXME' notes in this file",
-            "title": {
-                "1": "📝 {0} TODO",
-                "*": "📝 {0} TODOs"
-            }
-        },
-        {
-            "keywords": [
-                "NOTE",
-                "OLD",
-                "NEW"
-            ],
-            "tooltip": "These are all the notes in this file",
-            "title": {
-                "1": "📝 {0} Note",
-                "*": "📝 {0} Notes"
-            }
-        }
-    ],
-    "workspace.exclude": {
-        "out": false
-    },
-    "workspace.isHidden": true
+    "workspace.isHidden": false
 }
