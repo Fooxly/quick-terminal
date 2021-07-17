@@ -22,7 +22,7 @@ export function activate(context: ExtensionContext) {
 		} else if (process.platform === 'darwin') {
 			child_process.exec(`open -a ${cmd.osxExec || 'Terminal.app'} "${p}"`)
 		} else if (process.platform === 'linux') {
-			if (cmd.linuxExec) {
+			if (!cmd.linuxExec) {
 				return window.showErrorMessage('You have not set your linux terminal. Please add the "terminal.external.linuxExec" to your settings.json')
 			}
 			child_process.exec(`cd ${e.fsPath} && ${p}`)
