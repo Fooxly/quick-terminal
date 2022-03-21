@@ -18,7 +18,7 @@ export function activate(context: ExtensionContext) {
 		}
 		// open terminal based on OS
 		if (process.platform === 'win32') {
-			child_process.exec(`start ${cmd.windowsExec || "cmd"} cd /D "${p}"`)
+			child_process.exec(`start ${cmd.windowsExec || "cmd"} "cd /D "${p}""`)
 		} else if (process.platform === 'darwin') {
 			child_process.exec(`open -a ${cmd.osxExec || 'Terminal.app'} "${p}"`)
 		} else if (process.platform === 'linux') {
